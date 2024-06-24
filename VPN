@@ -10,15 +10,7 @@ vless://4a60a8e0-b51d-41ae-8500-1b0b6724c6e6@185.247.184.147:2060?mode=gun&secur
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=h2,http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#a-5
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1MTdUM0J2cFlhYWl1VzJj@series-a2-mec.samanehha.co:443#prox
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443#pro
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=%2Fsrvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&type=ws&sni=lmn1715683972331.lmn15534.info#Dr.s+irancell+5
-vmess://eyJhZGQiOiIxMDQuMjMuOTcuMTEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImRsMy5o0LXQt9C90LDQutC+0LzRhtGL0LPQu9Cw0LLQsDEu5YqK5a2Q5omLLndpY2szZOmCquaDoeeahOWwj+Wtl+avjS5zdW9ueWNhcnMuYnV6ei4iLCJpZCI6IjA4ODBjMTlmLWYyNTMtNDI5OC04NTczLTQyZmI4M2JmMzAwNiIsIm5ldCI6IndzIiwicGF0aCI6Ii9vdGhlciIsInBvcnQiOiI4MCIsInBzIjoiRHIucyBpcmFuY2VsbCA2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://376b9861-2fc6-4647-959c-18185cd9c95a@104.31.16.125:443?path=%2Fsrvacc1&security=tls&encryption=none&host=lmn1715683972331.lmn15534.info&type=ws&sni=lmn1715683972331.lmn15534.info#Dr.s+Hamrah+Avval+5
 
 warp://[2606:4700:d0::fe55:1a57:1a2f:865]:7103/?ifp=5-10#@hamrah1
 warp://[2606:4700:d1::29a0:37b9:742a:47c8]:1070/?ifp=5-10#@hamrah2
 warp://[2606:4700:d0::cecc:9c02:3c1:d1a4]:1701/?ifp=5-10#@hamrah3
-warp://[2606:4700:d0::e635:fb26:ea68:53f8]:1701/?ifp=5-10#@hamrah4
-warp://[2606:4700:d0::f048:2bbd:5a84:556b]:7103/?ifp=5-10#@hamrah5
-warp://[2606:4700:d1::e945:dc90:f2b5:98e2]:903/?ifp=5-10#@hamrah6
-
-
